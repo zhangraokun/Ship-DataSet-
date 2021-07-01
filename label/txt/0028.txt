@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+631 590 729 640 722 655 624 606 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+54 122 36 124 30 73 47 70 ship 0

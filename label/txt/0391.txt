@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+398 43 463 96 456 104 391 51 ship 0

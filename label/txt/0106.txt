@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+377 283 363 299 310 251 324 236 ship 0

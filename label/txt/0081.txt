@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+217 605 197 631 45 515 65 490 ship 0

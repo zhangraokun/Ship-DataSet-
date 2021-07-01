@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+316 173 329 185 269 252 256 240 ship 0

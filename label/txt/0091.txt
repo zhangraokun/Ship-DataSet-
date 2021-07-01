@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+15 314 178 335 174 366 11 345 ship 0

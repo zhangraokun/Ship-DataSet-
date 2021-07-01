@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+590 457 767 457 767 486 590 486 ship 0

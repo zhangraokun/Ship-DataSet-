@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+133 511 15 581 0 555 118 485 ship 0

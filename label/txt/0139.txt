@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+332 317 318 339 242 290 256 268 ship 0

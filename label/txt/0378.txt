@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+166 645 128 674 123 666 160 638 ship 0

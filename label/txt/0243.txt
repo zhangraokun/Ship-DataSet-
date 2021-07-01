@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+636 537 501 621 484 593 618 508 ship 0

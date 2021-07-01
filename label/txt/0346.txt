@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+767 367 661 410 652 389 759 347 ship 0

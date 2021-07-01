@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+325 202 134 312 117 283 308 173 ship 0

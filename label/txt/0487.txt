@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+434 559 257 637 244 610 421 531 ship 0

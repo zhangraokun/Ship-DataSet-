@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+546 541 429 576 420 544 536 509 ship 0

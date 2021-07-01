@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+616 82 550 112 546 103 611 72 ship 0

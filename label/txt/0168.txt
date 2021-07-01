@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+598 73 626 82 581 218 553 209 ship 0

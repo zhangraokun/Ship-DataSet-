@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+321 495 289 512 176 300 208 283 ship 0

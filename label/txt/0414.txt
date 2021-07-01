@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+579 683 522 700 520 691 577 675 ship 0

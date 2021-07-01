@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+158 299 180 320 66 430 45 408 ship 0

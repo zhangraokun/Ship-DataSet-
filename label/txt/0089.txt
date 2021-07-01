@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+678 167 600 227 591 217 670 156 ship 0

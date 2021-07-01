@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+187 0 237 32 230 44 179 12 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+509 547 522 573 384 647 370 621 ship 0

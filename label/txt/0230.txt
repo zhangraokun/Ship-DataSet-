@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+558 450 652 477 645 502 551 475 ship 0

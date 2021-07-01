@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+157 0 304 44 296 69 150 26 ship 0

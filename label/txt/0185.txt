@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+505 552 542 552 542 761 505 761 ship 0

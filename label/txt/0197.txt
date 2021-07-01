@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+488 157 459 170 414 64 443 51 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+716 425 570 478 560 452 706 398 ship 0

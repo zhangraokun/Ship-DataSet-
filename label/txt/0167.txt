@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+626 478 657 492 577 672 546 658 ship 0

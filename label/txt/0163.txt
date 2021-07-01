@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+258 313 283 324 255 388 231 378 ship 0

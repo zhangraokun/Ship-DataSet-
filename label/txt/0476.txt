@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+758 763 744 765 729 679 742 677 ship 0

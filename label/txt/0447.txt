@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+766 178 554 241 539 192 752 129 ship 0

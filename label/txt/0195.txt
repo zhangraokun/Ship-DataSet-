@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+647 590 642 607 547 581 551 563 ship 0

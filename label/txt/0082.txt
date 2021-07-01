@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+648 561 575 581 573 574 647 555 ship 0

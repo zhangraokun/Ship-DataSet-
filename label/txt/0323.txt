@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+288 580 359 612 350 633 279 600 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+490 196 381 209 379 191 488 179 ship 0

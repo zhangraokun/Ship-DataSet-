@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+186 78 120 83 119 68 185 63 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+219 367 226 372 213 390 207 385 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+331 218 20 272 14 236 325 183 ship 0

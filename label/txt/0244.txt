@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+567 677 297 754 282 702 552 624 ship 0

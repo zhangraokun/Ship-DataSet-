@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+585 219 558 227 515 78 543 70 ship 0

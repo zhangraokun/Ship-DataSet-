@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+743 604 652 648 644 633 735 588 ship 0

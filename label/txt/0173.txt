@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+725 483 530 499 528 474 723 458 ship 0

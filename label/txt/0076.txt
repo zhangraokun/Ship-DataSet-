@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+705 513 714 525 640 573 632 561 ship 0

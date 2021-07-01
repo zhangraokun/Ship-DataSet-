@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+187 396 202 407 145 489 130 479 ship 0

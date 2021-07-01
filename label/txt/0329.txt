@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+361 0 407 17 324 237 278 220 ship 0

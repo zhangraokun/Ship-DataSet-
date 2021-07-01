@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+284 705 159 766 150 748 274 687 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+767 677 741 704 586 562 611 534 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+685 293 448 379 437 350 674 263 ship 0

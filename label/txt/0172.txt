@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+521 374 515 382 456 333 463 326 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+45 452 138 476 132 498 39 475 ship 0

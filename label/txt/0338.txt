@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+429 683 387 692 347 494 389 485 ship 0

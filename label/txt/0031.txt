@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+135 520 154 521 147 632 129 631 ship 0

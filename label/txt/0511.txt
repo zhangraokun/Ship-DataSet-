@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+388 606 346 616 344 606 386 596 ship 0

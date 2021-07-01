@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+766 511 556 637 537 605 747 479 ship 0

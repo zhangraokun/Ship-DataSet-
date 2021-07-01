@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+87 548 124 555 82 760 45 752 ship 0

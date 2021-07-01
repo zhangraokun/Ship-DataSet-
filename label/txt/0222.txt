@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+651 252 418 295 411 259 644 217 ship 0

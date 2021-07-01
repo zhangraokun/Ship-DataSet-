@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+594 580 368 610 364 579 590 550 ship 0

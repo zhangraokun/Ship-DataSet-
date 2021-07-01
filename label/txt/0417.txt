@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+389 507 525 528 523 544 387 524 ship 0

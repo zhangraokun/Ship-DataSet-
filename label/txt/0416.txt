@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+130 92 92 105 89 97 128 84 ship 0

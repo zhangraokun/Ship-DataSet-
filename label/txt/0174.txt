@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+219 624 65 648 61 619 214 594 ship 0

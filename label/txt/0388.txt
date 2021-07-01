@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+241 230 164 264 159 253 236 219 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+650 231 441 256 437 223 646 198 ship 0

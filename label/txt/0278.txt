@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+619 283 366 321 357 266 611 228 ship 0

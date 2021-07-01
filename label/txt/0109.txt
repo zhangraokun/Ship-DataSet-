@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+482 508 643 530 639 559 478 537 ship 0

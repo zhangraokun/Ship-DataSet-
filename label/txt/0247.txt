@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+545 626 394 641 391 615 542 600 ship 0

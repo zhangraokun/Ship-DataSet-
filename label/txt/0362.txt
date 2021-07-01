@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+411 300 423 309 387 354 375 344 ship 0

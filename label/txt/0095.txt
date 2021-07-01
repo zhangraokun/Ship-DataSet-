@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+360 464 218 508 213 491 355 447 ship 0

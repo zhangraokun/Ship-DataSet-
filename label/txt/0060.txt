@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+604 404 553 430 546 415 596 389 ship 0

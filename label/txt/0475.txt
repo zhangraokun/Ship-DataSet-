@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+65 474 117 474 117 491 65 491 ship 0

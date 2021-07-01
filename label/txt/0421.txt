@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+579 85 434 166 421 143 567 61 ship 0

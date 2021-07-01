@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+92 540 78 554 3 483 18 468 ship 0

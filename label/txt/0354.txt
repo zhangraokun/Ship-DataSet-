@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+177 268 272 324 261 343 166 286 ship 0

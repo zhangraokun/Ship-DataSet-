@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+552 275 578 288 488 456 463 443 ship 0

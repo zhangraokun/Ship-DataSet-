@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+419 0 560 42 552 68 411 26 ship 0

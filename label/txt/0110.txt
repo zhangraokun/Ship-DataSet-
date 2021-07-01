@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+162 340 153 349 124 323 133 313 ship 0

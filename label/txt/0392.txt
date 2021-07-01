@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+717 603 548 726 527 697 695 573 ship 0

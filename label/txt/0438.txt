@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+583 672 411 692 407 662 580 641 ship 0

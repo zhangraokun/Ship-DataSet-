@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+199 259 8 267 6 228 198 220 ship 0

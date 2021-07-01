@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+447 213 167 332 150 291 430 172 ship 0

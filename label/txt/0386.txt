@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+363 81 450 128 440 145 353 98 ship 0

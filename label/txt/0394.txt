@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+49 424 252 480 242 515 39 459 ship 0

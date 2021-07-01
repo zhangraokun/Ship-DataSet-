@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+359 377 250 390 247 370 356 357 ship 0

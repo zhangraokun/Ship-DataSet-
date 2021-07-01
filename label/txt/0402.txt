@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+264 342 112 376 105 343 257 310 ship 0

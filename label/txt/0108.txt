@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+232 321 225 328 221 325 228 317 ship 0

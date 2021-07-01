@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+58 242 76 247 62 292 44 286 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+543 231 461 253 458 240 539 218 ship 0

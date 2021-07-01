@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+298 562 192 575 190 555 296 543 ship 0

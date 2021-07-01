@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+471 180 583 180 583 196 471 196 ship 0

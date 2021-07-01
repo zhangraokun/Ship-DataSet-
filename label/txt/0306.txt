@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+358 307 375 334 273 400 255 372 ship 0

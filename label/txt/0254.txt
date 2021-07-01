@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+446 35 297 54 293 30 442 11 ship 0

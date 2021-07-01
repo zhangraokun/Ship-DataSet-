@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+290 220 439 251 435 272 286 241 ship 0

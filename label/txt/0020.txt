@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+528 329 516 333 504 298 516 294 ship 0

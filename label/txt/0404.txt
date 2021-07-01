@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+717 731 723 733 716 751 710 749 ship 0

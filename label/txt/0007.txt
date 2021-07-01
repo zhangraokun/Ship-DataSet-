@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+626 616 531 641 528 626 623 602 ship 0

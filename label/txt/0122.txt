@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+515 573 531 573 526 669 510 668 ship 0

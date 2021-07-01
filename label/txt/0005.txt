@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+345 216 593 354 567 400 319 262 ship 0

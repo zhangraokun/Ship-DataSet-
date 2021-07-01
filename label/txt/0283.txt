@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+125 267 5 279 3 253 122 241 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+516 295 555 295 555 503 516 503 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+561 235 583 243 543 351 521 343 ship 0

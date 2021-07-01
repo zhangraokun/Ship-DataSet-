@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+255 321 476 340 472 382 251 362 ship 0

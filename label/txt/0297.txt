@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+318 25 625 188 600 236 293 72 ship 0

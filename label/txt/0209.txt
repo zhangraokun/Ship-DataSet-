@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+391 555 378 590 122 493 135 459 ship 0

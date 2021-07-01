@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+733 356 767 392 604 544 570 508 ship 0

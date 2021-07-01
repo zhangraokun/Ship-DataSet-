@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+682 739 669 750 608 677 621 666 ship 0

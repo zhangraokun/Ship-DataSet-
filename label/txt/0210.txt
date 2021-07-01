@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+62 228 136 228 136 245 62 245 ship 0
+87 579 14 602 8 581 81 558 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+354 700 464 747 455 767 345 720 ship 0

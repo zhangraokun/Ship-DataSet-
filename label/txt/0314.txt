@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+411 580 556 580 556 604 411 604 ship 0

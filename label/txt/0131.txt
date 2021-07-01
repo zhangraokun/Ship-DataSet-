@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+299 317 159 334 156 310 296 293 ship 0

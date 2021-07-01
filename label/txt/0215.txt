@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+473 346 514 363 415 598 374 580 ship 0

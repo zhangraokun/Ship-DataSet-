@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+603 123 508 178 500 162 595 107 ship 0

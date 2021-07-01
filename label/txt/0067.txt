@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+718 586 731 596 697 638 684 628 ship 0

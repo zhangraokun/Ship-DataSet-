@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+614 214 476 256 469 234 608 192 ship 0

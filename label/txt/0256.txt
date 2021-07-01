@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+691 298 762 334 754 349 683 313 ship 0

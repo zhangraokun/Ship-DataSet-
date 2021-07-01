@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+672 404 645 405 633 221 660 219 ship 0

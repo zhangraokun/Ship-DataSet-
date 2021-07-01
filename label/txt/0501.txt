@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+352 282 518 435 496 459 330 306 ship 0

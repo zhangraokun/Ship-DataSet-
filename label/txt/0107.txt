@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+446 204 537 240 527 264 436 228 ship 0

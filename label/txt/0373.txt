@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+259 508 84 570 73 539 248 477 ship 0

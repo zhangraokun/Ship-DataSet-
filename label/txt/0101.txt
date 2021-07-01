@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+458 170 317 191 314 172 455 151 ship 0

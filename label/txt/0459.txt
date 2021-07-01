@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+574 322 562 331 504 257 516 247 ship 0

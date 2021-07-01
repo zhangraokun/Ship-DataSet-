@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+121 397 83 417 0 262 39 241 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+262 396 96 457 85 427 251 367 ship 0

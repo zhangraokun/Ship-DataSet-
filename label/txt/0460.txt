@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+327 285 318 287 309 254 318 252 ship 0

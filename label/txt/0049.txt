@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+472 544 700 696 678 729 450 576 ship 0

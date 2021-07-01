@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+109 117 330 222 313 259 91 154 ship 0

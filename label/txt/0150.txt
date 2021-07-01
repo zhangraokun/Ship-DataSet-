@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+271 43 110 63 106 31 267 12 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+669 409 686 430 562 532 544 511 ship 0

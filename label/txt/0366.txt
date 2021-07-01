@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+253 319 237 324 217 260 233 255 ship 0

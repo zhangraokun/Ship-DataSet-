@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+370 322 454 337 452 352 367 337 ship 0

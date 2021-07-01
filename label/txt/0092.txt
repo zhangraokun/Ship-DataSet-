@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+677 517 685 530 655 550 646 537 ship 0

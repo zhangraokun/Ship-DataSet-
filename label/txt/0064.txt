@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+414 663 560 677 558 699 412 685 ship 0

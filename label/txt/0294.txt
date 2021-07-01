@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+433 382 452 394 384 501 365 489 ship 0

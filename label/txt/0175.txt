@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+416 303 430 324 319 405 304 385 ship 0

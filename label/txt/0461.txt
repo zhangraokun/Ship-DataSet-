@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+501 565 311 605 305 579 495 538 ship 0

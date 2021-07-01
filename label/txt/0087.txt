@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+277 628 186 683 178 671 270 616 ship 0

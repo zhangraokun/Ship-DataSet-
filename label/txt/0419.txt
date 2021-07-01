@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+207 286 247 308 129 523 90 501 ship 0

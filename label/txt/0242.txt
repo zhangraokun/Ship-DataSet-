@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+473 179 767 251 757 294 463 222 ship 0

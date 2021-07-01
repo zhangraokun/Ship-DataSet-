@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+467 398 349 414 346 394 464 379 ship 0

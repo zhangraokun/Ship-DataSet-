@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+237 89 83 178 67 151 222 62 ship 0

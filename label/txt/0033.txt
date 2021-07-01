@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+16 358 227 471 212 498 2 386 ship 0

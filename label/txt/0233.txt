@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+529 64 677 132 662 164 515 97 ship 0

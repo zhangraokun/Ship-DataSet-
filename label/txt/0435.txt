@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+722 286 731 297 672 345 664 335 ship 0

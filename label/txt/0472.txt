@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+33 203 162 347 129 376 0 232 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+721 727 577 767 567 732 711 692 ship 0

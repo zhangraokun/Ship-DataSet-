@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+202 457 377 555 358 587 184 490 ship 0

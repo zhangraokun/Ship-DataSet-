@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+412 274 283 309 276 287 405 252 ship 0

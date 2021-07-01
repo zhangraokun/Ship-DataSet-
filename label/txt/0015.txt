@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+165 713 301 736 297 754 161 731 ship 0

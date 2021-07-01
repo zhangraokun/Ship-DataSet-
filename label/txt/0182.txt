@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+719 514 739 549 493 686 474 652 ship 0

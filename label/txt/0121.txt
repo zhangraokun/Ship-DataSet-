@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+676 89 666 105 602 62 612 46 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+510 543 727 543 727 586 510 586 ship 0

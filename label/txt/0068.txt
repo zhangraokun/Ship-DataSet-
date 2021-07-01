@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+738 260 612 344 599 324 725 240 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+38 434 234 536 216 571 20 469 ship 0

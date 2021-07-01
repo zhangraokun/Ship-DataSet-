@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+490 87 477 90 452 7 464 4 ship 0
+550 173 523 181 468 8 494 0 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+734 495 721 500 685 412 698 407 ship 0

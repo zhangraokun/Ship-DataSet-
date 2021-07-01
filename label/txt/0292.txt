@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+315 505 294 511 267 415 287 409 ship 0

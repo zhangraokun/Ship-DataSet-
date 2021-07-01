@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+13 274 197 370 183 396 0 300 ship 0

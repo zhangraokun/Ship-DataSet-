@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+36 138 206 290 169 332 0 180 ship 0

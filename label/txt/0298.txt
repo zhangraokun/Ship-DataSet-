@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+686 549 659 578 504 437 531 407 ship 0

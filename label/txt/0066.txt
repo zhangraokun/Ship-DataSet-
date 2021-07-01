@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+732 364 717 374 671 297 687 288 ship 0

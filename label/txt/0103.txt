@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+670 557 695 578 578 718 553 696 ship 0

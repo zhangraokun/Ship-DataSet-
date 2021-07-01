@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+150 445 98 463 93 446 145 428 ship 0

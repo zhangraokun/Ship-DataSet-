@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+99 367 85 374 45 291 59 284 ship 0

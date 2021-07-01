@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+426 604 398 614 351 486 380 476 ship 0

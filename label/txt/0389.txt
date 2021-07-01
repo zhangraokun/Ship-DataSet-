@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+538 332 549 346 472 409 460 395 ship 0

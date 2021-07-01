@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+268 115 251 121 218 35 235 28 ship 0

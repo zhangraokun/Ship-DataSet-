@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+281 146 54 184 49 153 275 115 ship 0

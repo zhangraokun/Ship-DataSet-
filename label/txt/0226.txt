@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+15 185 135 195 133 222 12 212 ship 0

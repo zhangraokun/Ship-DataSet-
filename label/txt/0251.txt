@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+219 345 465 452 447 492 202 386 ship 0

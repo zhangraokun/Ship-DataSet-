@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+601 242 614 269 445 354 432 328 ship 0

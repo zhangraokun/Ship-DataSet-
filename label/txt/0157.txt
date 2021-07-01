@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+725 288 542 297 541 269 724 259 ship 0

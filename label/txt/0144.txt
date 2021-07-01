@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+655 424 766 427 765 450 654 446 ship 0

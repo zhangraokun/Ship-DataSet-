@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+516 222 543 241 450 380 423 361 ship 0

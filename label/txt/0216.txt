@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+13 412 228 448 222 486 7 450 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+289 231 325 262 143 479 107 448 ship 0

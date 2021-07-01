@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+722 739 522 767 515 721 716 693 ship 0

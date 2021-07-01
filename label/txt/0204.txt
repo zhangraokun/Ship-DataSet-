@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+329 597 313 629 142 544 158 511 ship 0

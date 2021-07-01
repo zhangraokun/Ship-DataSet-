@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+354 407 382 425 282 592 253 574 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+133 127 338 180 328 220 123 167 ship 0

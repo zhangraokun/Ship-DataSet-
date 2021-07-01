@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+43 247 7 248 3 40 39 39 ship 0

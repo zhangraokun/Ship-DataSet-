@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+296 518 269 522 243 346 270 342 ship 0

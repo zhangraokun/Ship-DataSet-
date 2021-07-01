@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+190 59 229 78 225 87 186 67 ship 0

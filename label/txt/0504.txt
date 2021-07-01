@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+319 169 342 189 227 322 205 303 ship 0

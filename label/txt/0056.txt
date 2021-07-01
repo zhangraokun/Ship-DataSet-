@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+340 172 261 216 253 203 332 158 ship 0

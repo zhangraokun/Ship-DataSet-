@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+667 497 676 517 582 566 573 546 ship 0

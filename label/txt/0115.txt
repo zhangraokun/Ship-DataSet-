@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+21 8 34 14 13 63 0 58 ship 0

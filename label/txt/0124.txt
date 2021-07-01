@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+367 396 399 436 177 613 144 572 ship 0

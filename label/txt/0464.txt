@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+573 243 516 279 510 270 566 233 ship 0

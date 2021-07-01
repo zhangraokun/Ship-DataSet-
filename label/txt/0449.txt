@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+386 465 319 492 312 474 379 446 ship 0

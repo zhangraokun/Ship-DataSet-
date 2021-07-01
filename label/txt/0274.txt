@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+301 759 271 766 239 640 269 632 ship 0

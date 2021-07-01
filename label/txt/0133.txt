@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+742 686 732 704 661 664 671 646 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+109 379 300 478 283 511 92 412 ship 0

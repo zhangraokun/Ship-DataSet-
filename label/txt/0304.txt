@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+209 97 1 101 0 76 209 72 ship 0

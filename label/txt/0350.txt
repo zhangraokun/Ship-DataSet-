@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+129 543 45 554 43 536 127 526 ship 0

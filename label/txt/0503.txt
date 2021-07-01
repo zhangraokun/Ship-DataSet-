@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+107 215 264 315 249 339 92 238 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+289 43 310 46 297 133 277 131 ship 0

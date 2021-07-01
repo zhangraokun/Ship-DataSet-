@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+315 210 153 312 136 285 299 183 ship 0

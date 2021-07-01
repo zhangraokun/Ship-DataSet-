@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+357 495 289 513 286 502 355 484 ship 0

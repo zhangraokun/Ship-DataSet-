@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+629 523 766 611 749 638 611 550 ship 0

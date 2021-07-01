@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+413 259 304 318 289 292 398 232 ship 0

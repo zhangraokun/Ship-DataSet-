@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+291 297 274 324 125 227 141 201 ship 0

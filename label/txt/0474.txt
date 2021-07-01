@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+160 733 20 756 17 737 158 715 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+395 164 370 181 282 53 307 36 ship 0

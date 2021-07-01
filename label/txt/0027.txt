@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+498 477 766 477 766 527 498 527 ship 0

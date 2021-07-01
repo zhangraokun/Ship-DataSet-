@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+530 699 524 706 507 688 514 682 ship 0

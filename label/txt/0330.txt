@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+175 625 259 647 254 664 170 642 ship 0

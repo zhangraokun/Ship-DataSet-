@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+148 695 328 695 328 719 148 719 ship 0

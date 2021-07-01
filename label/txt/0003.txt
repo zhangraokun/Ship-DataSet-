@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+766 305 743 323 676 236 699 218 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+642 496 589 508 587 495 640 483 ship 0

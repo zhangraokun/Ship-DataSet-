@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+159 308 174 331 60 405 45 382 ship 0

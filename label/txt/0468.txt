@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+197 632 145 653 139 637 191 616 ship 0

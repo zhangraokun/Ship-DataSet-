@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+739 554 754 580 620 656 606 631 ship 0

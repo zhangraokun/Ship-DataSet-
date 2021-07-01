@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+733 614 767 652 637 767 604 730 ship 0

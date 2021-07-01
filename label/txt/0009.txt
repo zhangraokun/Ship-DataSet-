@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+482 455 445 459 418 247 454 242 ship 0

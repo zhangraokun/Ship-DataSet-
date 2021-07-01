@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+226 653 35 767 14 732 205 617 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+190 493 172 501 131 403 149 396 ship 0

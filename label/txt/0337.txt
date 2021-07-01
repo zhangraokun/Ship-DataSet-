@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+214 288 170 313 28 64 71 39 ship 0

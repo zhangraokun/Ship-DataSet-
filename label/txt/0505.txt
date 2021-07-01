@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+498 306 311 348 306 324 493 282 ship 0

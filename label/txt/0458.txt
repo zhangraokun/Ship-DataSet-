@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+604 725 697 728 696 751 604 748 ship 0

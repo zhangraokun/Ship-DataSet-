@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+518 184 654 199 650 238 514 223 ship 0

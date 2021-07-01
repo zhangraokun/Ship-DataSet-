@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+569 528 404 550 400 525 565 503 ship 0

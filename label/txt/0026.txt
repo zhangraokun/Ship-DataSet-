@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+622 450 669 468 563 734 516 715 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+602 307 762 336 757 366 597 336 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+361 313 398 339 391 349 354 322 ship 0

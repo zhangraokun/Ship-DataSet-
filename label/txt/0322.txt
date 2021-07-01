@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+204 714 311 755 307 766 199 725 ship 0

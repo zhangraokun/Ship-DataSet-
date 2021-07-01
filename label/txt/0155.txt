@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+223 48 256 75 122 239 90 213 ship 0

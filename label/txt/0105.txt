@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+656 47 531 53 531 29 656 23 ship 0

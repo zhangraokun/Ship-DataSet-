@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+723 2 755 37 586 189 554 153 ship 0

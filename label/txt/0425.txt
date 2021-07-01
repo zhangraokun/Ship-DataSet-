@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+436 358 366 413 351 394 421 338 ship 0

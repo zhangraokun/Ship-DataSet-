@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+368 700 342 747 37 584 62 537 ship 0

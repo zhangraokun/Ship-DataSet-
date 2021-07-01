@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+310 313 140 381 128 352 299 284 ship 0

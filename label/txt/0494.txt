@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+346 570 328 577 288 469 307 463 ship 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+372 173 250 229 243 212 365 156 ship 0

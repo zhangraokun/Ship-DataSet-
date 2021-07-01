@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+538 55 523 56 518 2 534 1 ship 0
+545 51 540 52 538 33 543 32 ship 0

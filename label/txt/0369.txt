@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+741 635 636 661 632 648 738 622 ship 0

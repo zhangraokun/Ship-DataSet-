@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+391 496 491 514 487 536 387 518 ship 0

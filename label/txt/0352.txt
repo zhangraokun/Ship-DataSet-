@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+306 2 349 28 202 275 159 249 ship 0

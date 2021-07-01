@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+670 458 642 475 560 341 588 324 ship 0

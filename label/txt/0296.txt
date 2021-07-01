@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+765 556 619 647 605 625 751 533 ship 0

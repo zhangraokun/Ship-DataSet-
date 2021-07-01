@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+271 181 20 281 3 237 253 137 ship 0

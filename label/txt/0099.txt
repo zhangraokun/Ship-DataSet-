@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+401 409 170 547 149 512 380 374 ship 0

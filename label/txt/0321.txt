@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+518 366 766 421 756 469 507 413 ship 0

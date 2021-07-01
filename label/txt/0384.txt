@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+557 436 747 446 746 474 556 464 ship 0

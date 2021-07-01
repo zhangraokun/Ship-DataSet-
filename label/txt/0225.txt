@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+473 575 256 590 254 562 471 547 ship 0

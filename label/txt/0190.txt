@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+637 480 661 485 629 632 605 627 ship 0

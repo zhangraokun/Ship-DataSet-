@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+195 590 218 595 194 699 171 693 ship 0

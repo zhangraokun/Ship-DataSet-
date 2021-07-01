@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+558 657 724 672 721 703 555 689 ship 0

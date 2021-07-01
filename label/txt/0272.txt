@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+206 216 14 270 4 236 195 181 ship 0

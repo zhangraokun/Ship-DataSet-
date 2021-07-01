@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+734 480 766 490 710 678 678 668 ship 0

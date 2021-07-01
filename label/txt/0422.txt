@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+743 414 716 427 668 322 695 309 ship 0

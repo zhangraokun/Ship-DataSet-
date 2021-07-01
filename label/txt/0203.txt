@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+418 262 429 292 191 379 180 349 ship 0

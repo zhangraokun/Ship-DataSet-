@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+573 512 430 583 413 550 557 479 ship 0

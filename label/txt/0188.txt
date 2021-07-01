@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+191 46 200 76 13 130 4 100 ship 0

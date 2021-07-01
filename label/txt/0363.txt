@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+433 144 405 159 338 34 366 18 ship 0

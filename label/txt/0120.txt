@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.115726939386
+585 335 558 366 454 278 480 246 ship 0
